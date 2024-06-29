@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+### Second year Computer Science student at the Open University of Israel
+### Backend Java developer
 
 <!--
 **omrinadler/omrinadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
